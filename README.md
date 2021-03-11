@@ -260,6 +260,8 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KubiScan](https://github.com/cyberark/KubiScan)
 
+[Lacework](https://www.lacework.com/)
+
 [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 
 [kubeaudit](https://github.com/Shopify/kubeaudit)
